@@ -32,7 +32,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 O pojeto Habits é um registrador de hábitos diários.
 
-- [Acesse o projeto finalizado online]() 
+- [Acesse o projeto finalizado online](https://mayronn.github.io/nlw-setup/) 
 <br><br>
 
 ## 🎨Layout
